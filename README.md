@@ -1,6 +1,4 @@
-Certainly! Here is the README file for your project:
 
----
 
 # SNS NOTIFICATION ON S3 EVENTS
 
@@ -82,6 +80,5 @@ This project demonstrates the setup of Amazon Simple Notification Service (SNS) 
 1. Upload a test file to the S3 bucket.
 2. Verify that you receive a notification.
 
----
 
-Feel free to add any additional information or customize the README according to your project's specific details.
+
